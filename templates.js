@@ -1227,20 +1227,20 @@ module.exports =
         licenseUrl:"https://github.com/dragdropsite/mPurpose/blob/master/LICENSE"
     },
     {
-    name:"RUMA",
-    title:"RUMA Multipurpose Template",
-    short:"RUMA Multipurpose Template",
-    full:"Free Multipurpose Template : Ruma is free to use template for personal and commercial use under Commons Attribution 3.0 license. Use it for     you project ans save your time. it is 100% responsive and have unique design. This is made with popular framework bootstrap",
-    tags:["bootstrap 3.1","multipager","multipurpose"],
-    imgUrl:"http://www.binarytheme.com/wp-ontent/uploads/2014/05/bs-multipurpose-ruma1.png",
-    downloadUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-Ruma.zip",
-    sourceUrl:"http://www.binarytheme.com/free-multipurpose-template-ruma/",
-    previewUrl:"http://www.binarytheme.com/btlivedemos/05-2014/31/bs-multipurpose-ruma/index.html",
-    author:"binarytheme",
-    authorUrl:"http://www.binarytheme.com/category/themes/bootstrap-themes/",
-    bootstrapVersion:"3.1",
-    avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
-    license:"CC3.0",
-    licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
+        name:"Ruma",
+        title:"Ruma",
+        short:"Ruma Multipager",
+        full:"Ruma is free to use template for personal and commercial use under Commons Attribution 3.0 license. Use it for you project ans save your time",
+        tags:["theme", "multipager", "bootstrap", "responsive", "free","multipurpose"],
+        imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-ruma1.png",
+        downloadUrl:"http://www.binarytheme.com/wp-content/uploads/2014/05/bs-multipurpose-Ruma.zip",
+        sourceUrl:"http://www.binarytheme.com/free-multipurpose-template-ruma/",
+        previewUrl:"http://www.binarytheme.com/btlivedemos/05-2014/31/bs-multipurpose-ruma/index.html",
+        author:"Binary Theme",
+        authorUrl:"http://www.binarytheme.com/",
+        bootstrapVersion:"3.1.0",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC 3.0",
+        licenseUrl:""
 }
 ]
