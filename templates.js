@@ -1242,5 +1242,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC 3.0",
         licenseUrl:""
+},
+{
+        name:"ecosave",
+        title:"ecosave",
+        short:"ecosave Donations",
+        full:"ECOSAVE BOOTSTRAP ENVIRONMENT TEMPLATE Comes with Two Variant one is light and the other is dark. You can use an variant which you like. ",
+        tags:["theme", "donations", "bootstrap", "responsive", "free","multipurpose"],
+        imgUrl:"http://www.binarytheme.com/wp-content/uploads/2014/07/bs-ecosave.png",
+        downloadUrl:"http://www.binarytheme.com/?smd_process_download=1&download_id=1327",
+        sourceUrl:"http://www.binarytheme.com/ecosave-bootstrap-environment-template/",
+        previewUrl:"http://binarytheme.com/demos?theme=ecosave-bootstrap-environment-template",
+        author:"Binary Theme",
+        authorUrl:"http://www.binarytheme.com/",
+        bootstrapVersion:"3.1.0",
+        avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
+        license:"CC 3.0",
+        licenseUrl:""
 }
 ]
